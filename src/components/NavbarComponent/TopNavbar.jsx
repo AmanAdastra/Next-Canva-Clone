@@ -4,7 +4,7 @@ import AuthButtons from "../ButtonComponents/AuthButtons";
 import LogoIcon from "../Icons/LogoIcon";
 const TopNavbar = () => {
   return (
-    <nav className="sticky top-0 flex justify-between items-center h-[72px] w-[100vw] px-8 shadow-md bg-white">
+    <nav className="sticky top-0 flex justify-between items-center h-[72px] px-8 shadow-md bg-white">
       <div className="w-[10%] flex items-center">
         <LogoIcon />
       </div>
